@@ -1,0 +1,9 @@
+C:\Users\saifullah\Desktop\proje2B2\proje2B2\bin\Debug\proje2B2.exe.config
+C:\Users\saifullah\Desktop\proje2B2\proje2B2\bin\Debug\proje2B2.exe
+C:\Users\saifullah\Desktop\proje2B2\proje2B2\bin\Debug\proje2B2.pdb
+C:\Users\saifullah\Desktop\proje2B2\proje2B2\obj\Debug\proje2B2.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Desktop\proje2B2\proje2B2\obj\Debug\proje2B2.exe
+C:\Users\saifullah\Desktop\proje2B2\proje2B2\obj\Debug\proje2B2.pdb
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BYığıt\proje2B2\bin\Debug\proje2B2.exe.config
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BYığıt\proje2B2\obj\Debug\proje2B2.exe
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BYığıt\proje2B2\obj\Debug\proje2B2.pdb

@@ -1,0 +1,15 @@
+C:\Users\saifullah\Desktop\proje3B_2\proje3B_2\bin\Debug\proje3B_2.exe.config
+C:\Users\saifullah\Desktop\proje3B_2\proje3B_2\bin\Debug\proje3B_2.exe
+C:\Users\saifullah\Desktop\proje3B_2\proje3B_2\bin\Debug\proje3B_2.pdb
+C:\Users\saifullah\Desktop\proje3B_2\proje3B_2\obj\Debug\proje3B_2.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Desktop\proje3B_2\proje3B_2\obj\Debug\proje3B_2.exe
+C:\Users\saifullah\Desktop\proje3B_2\proje3B_2\obj\Debug\proje3B_2.pdb
+C:\Users\saifullah\Desktop\Proje3B\proje3B_2\proje3B_2\bin\Debug\proje3B_2.exe.config
+C:\Users\saifullah\Desktop\Proje3B\proje3B_2\proje3B_2\obj\Debug\proje3B_2.exe
+C:\Users\saifullah\Desktop\Proje3B\proje3B_2\proje3B_2\obj\Debug\proje3B_2.pdb
+C:\Users\saifullah\Desktop\all projects\Proje3B\proje3B_2\proje3B_2\bin\Debug\proje3B_2.exe.config
+C:\Users\saifullah\Desktop\all projects\Proje3B\proje3B_2\proje3B_2\obj\Debug\proje3B_2.exe
+C:\Users\saifullah\Desktop\all projects\Proje3B\proje3B_2\proje3B_2\obj\Debug\proje3B_2.pdb
+C:\Users\saifullah\Desktop\all projects\Proje3B\proje3B_2\proje3B_2\bin\Debug\proje3B_2.exe
+C:\Users\saifullah\Desktop\all projects\Proje3B\proje3B_2\proje3B_2\bin\Debug\proje3B_2.pdb
+C:\Users\saifullah\Desktop\all projects\Proje3B\proje3B_2\proje3B_2\obj\Debug\proje3B_2.csprojResolveAssemblyReference.cache

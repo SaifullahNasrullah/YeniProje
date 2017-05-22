@@ -1,0 +1,9 @@
+C:\Users\saifullah\Desktop\proje2BmüşterilerSira\proje2BmüşterilerSira\bin\Debug\proje2BmüşterilerSira.exe.config
+C:\Users\saifullah\Desktop\proje2BmüşterilerSira\proje2BmüşterilerSira\bin\Debug\proje2BmüşterilerSira.exe
+C:\Users\saifullah\Desktop\proje2BmüşterilerSira\proje2BmüşterilerSira\bin\Debug\proje2BmüşterilerSira.pdb
+C:\Users\saifullah\Desktop\proje2BmüşterilerSira\proje2BmüşterilerSira\obj\Debug\proje2BmüşterilerSira.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Desktop\proje2BmüşterilerSira\proje2BmüşterilerSira\obj\Debug\proje2BmüşterilerSira.exe
+C:\Users\saifullah\Desktop\proje2BmüşterilerSira\proje2BmüşterilerSira\obj\Debug\proje2BmüşterilerSira.pdb
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BmüşterilerSira4\proje2BmüşterilerSira\bin\Debug\proje2BmüşterilerSira.exe.config
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BmüşterilerSira4\proje2BmüşterilerSira\obj\Debug\proje2BmüşterilerSira.exe
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BmüşterilerSira4\proje2BmüşterilerSira\obj\Debug\proje2BmüşterilerSira.pdb

@@ -1,0 +1,6 @@
+C:\Users\saifullah\Desktop\ağacornek\ağacornek\bin\Debug\ağacornek.exe.config
+C:\Users\saifullah\Desktop\ağacornek\ağacornek\obj\Debug\ağacornek.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Desktop\ağacornek\ağacornek\bin\Debug\ağacornek.exe
+C:\Users\saifullah\Desktop\ağacornek\ağacornek\bin\Debug\ağacornek.pdb
+C:\Users\saifullah\Desktop\ağacornek\ağacornek\obj\Debug\ağacornek.exe
+C:\Users\saifullah\Desktop\ağacornek\ağacornek\obj\Debug\ağacornek.pdb

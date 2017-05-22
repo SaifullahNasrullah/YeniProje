@@ -1,0 +1,12 @@
+C:\Users\saifullah\Desktop\proje2Böncelikuyruk\proje2Böncelikuyruk\bin\Debug\proje2Böncelikuyruk.exe.config
+C:\Users\saifullah\Desktop\proje2Böncelikuyruk\proje2Böncelikuyruk\bin\Debug\proje2Böncelikuyruk.exe
+C:\Users\saifullah\Desktop\proje2Böncelikuyruk\proje2Böncelikuyruk\bin\Debug\proje2Böncelikuyruk.pdb
+C:\Users\saifullah\Desktop\proje2Böncelikuyruk\proje2Böncelikuyruk\obj\Debug\proje2Böncelikuyruk.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Desktop\proje2Böncelikuyruk\proje2Böncelikuyruk\obj\Debug\proje2Böncelikuyruk.exe
+C:\Users\saifullah\Desktop\proje2Böncelikuyruk\proje2Böncelikuyruk\obj\Debug\proje2Böncelikuyruk.pdb
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2Böncelikuyruk\proje2Böncelikuyruk\bin\Debug\proje2Böncelikuyruk.exe.config
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2Böncelikuyruk\proje2Böncelikuyruk\obj\Debug\proje2Böncelikuyruk.exe
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2Böncelikuyruk\proje2Böncelikuyruk\obj\Debug\proje2Böncelikuyruk.pdb
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2Böncelikuyruk\proje2Böncelikuyruk\bin\Debug\proje2Böncelikuyruk.exe
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2Böncelikuyruk\proje2Böncelikuyruk\bin\Debug\proje2Böncelikuyruk.pdb
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2Böncelikuyruk\proje2Böncelikuyruk\obj\Debug\proje2Böncelikuyruk.csprojResolveAssemblyReference.cache

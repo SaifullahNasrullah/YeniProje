@@ -1,0 +1,9 @@
+C:\Users\saifullah\Desktop\aritmatik\aritmatik\bin\Debug\aritmatik.exe.config
+C:\Users\saifullah\Desktop\aritmatik\aritmatik\bin\Debug\aritmatik.exe
+C:\Users\saifullah\Desktop\aritmatik\aritmatik\bin\Debug\aritmatik.pdb
+C:\Users\saifullah\Desktop\aritmatik\aritmatik\obj\Debug\aritmatik.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Desktop\aritmatik\aritmatik\obj\Debug\aritmatik.Form1.resources
+C:\Users\saifullah\Desktop\aritmatik\aritmatik\obj\Debug\aritmatik.Properties.Resources.resources
+C:\Users\saifullah\Desktop\aritmatik\aritmatik\obj\Debug\aritmatik.csproj.GenerateResource.Cache
+C:\Users\saifullah\Desktop\aritmatik\aritmatik\obj\Debug\aritmatik.exe
+C:\Users\saifullah\Desktop\aritmatik\aritmatik\obj\Debug\aritmatik.pdb

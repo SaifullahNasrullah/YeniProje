@@ -1,0 +1,27 @@
+C:\Users\saifullah\Desktop\proje2B\proje2B\bin\Debug\proje2B.exe.config
+C:\Users\saifullah\Desktop\proje2B\proje2B\bin\Debug\proje2B.exe
+C:\Users\saifullah\Desktop\proje2B\proje2B\bin\Debug\proje2B.pdb
+C:\Users\saifullah\Desktop\proje2B\proje2B\obj\Debug\proje2B.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Desktop\proje2B\proje2B\obj\Debug\proje2B.exe
+C:\Users\saifullah\Desktop\proje2B\proje2B\obj\Debug\proje2B.pdb
+C:\Users\saifullah\Desktop\ctrl_05120826_SaifullahNasrullah\proje2BDiller\proje2B\bin\Debug\proje2B.exe.config
+C:\Users\saifullah\Desktop\ctrl_05120826_SaifullahNasrullah\proje2BDiller\proje2B\obj\Debug\proje2B.exe
+C:\Users\saifullah\Desktop\ctrl_05120826_SaifullahNasrullah\proje2BDiller\proje2B\obj\Debug\proje2B.pdb
+C:\Users\saifullah\Desktop\ctrl_05120826_SaifullahNasrullah\proje2BDiller\proje2B\bin\Debug\proje2B.exe
+C:\Users\saifullah\Desktop\ctrl_05120826_SaifullahNasrullah\proje2BDiller\proje2B\bin\Debug\proje2B.pdb
+C:\Users\saifullah\Desktop\ctrl_05120826_SaifullahNasrullah\proje2BDiller\proje2B\obj\Debug\proje2B.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller\proje2B\bin\Debug\proje2B.exe.config
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller\proje2B\obj\Debug\proje2B.exe
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller\proje2B\obj\Debug\proje2B.pdb
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller\proje2B\bin\Debug\proje2B.exe
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller\proje2B\bin\Debug\proje2B.pdb
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller\proje2B\obj\Debug\proje2B.csprojResolveAssemblyReference.cache
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller1\proje2B\bin\Debug\proje2B.exe.config
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller1\proje2B\obj\Debug\proje2B.exe
+C:\Users\saifullah\Desktop\all projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller1\proje2B\obj\Debug\proje2B.pdb
+C:\Users\saifullah\Desktop\all projects\c#projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller1\proje2B\bin\Debug\proje2B.exe.config
+C:\Users\saifullah\Desktop\all projects\c#projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller1\proje2B\obj\Debug\proje2B.exe
+C:\Users\saifullah\Desktop\all projects\c#projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller1\proje2B\obj\Debug\proje2B.pdb
+C:\Users\saifullah\Desktop\all projects\c#projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller1\proje2B\bin\Debug\proje2B.exe
+C:\Users\saifullah\Desktop\all projects\c#projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller1\proje2B\bin\Debug\proje2B.pdb
+C:\Users\saifullah\Desktop\all projects\c#projects\ctrl_05120826_SaifullahNasrullah\proje2BDiller1\proje2B\obj\Debug\proje2B.csprojResolveAssemblyReference.cache
